@@ -10,6 +10,8 @@ Front-end Source code
 
 5 and 6. https://github.com/Manishav233/HTML-DAY1-Q5-6/blob/main/index.html
 
+7. https://github.com/Manishav233/HTML-DAY-1-Q7
+
 8. https://github.com/Manishav233/HTML-DAY-1-Q8
 
 9. https://github.com/Manishav233/HTML-DAY-1-Q9/blob/main/index.html
@@ -28,6 +30,8 @@ Front-end Deployed URL
 4. https://stoic-curran-af5144.netlify.app/
 
 5 and 6 . https://manishav233.github.io/HTML-DAY1-Q5-6/
+
+7. https://xenodochial-ride-730243.netlify.app
 
 8. https://manishav233.github.io/HTML-DAY-1-Q8/
 
